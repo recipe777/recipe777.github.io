@@ -14,7 +14,7 @@ body {
   margin: 0;
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
-  font-weight: 300;
+  font-weight: 900;
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
 }
 
@@ -48,7 +48,7 @@ p {
 
 strong {
   color: #222;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 header {
@@ -87,7 +87,7 @@ header p {
 }
 header p.view {
   display: none;
-  font-weight: 700;
+  font-weight: 900;
   text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
   -webkit-font-smoothing: antialiased;
 }
@@ -95,7 +95,7 @@ header p.view a {
   color: #06c;
 }
 header p.view small {
-  font-weight: 400;
+  font-weight: 900;
 }
 header ul {
   margin: 0;
@@ -162,7 +162,7 @@ header ul a {
   color: rgba(255, 255, 255, 0.8);
   display: block;
   text-align: center;
-  font-weight: 400;
+  font-weight: 900;
   padding-top: 6px;
   height: 40px;
   text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
@@ -266,7 +266,7 @@ th, td {
 
 dt {
   color: #222;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 th {
